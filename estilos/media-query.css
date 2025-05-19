@@ -64,9 +64,8 @@ Grandes telas: acima de 1200px
     div.campo > input {
    background-color: #94cfcd;
    font-size: 1em;
-   width:80%;
+   width:87%;
    height: 100%;
-   
    border: 0px;
    border-radius: 8px;
    transform: translateY(-13px);
