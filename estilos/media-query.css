@@ -22,9 +22,10 @@ Grandes telas: acima de 1200px
    font-size: 1em;
    width:80%;
    height: 100%;
-   transform: translateY(-13px);
+   
    border: 0px;
    border-radius: 8px;
+   transform: translateY(-13px);
 }
 }
 
@@ -65,9 +66,10 @@ Grandes telas: acima de 1200px
    font-size: 1em;
    width:80%;
    height: 100%;
-   transform: translateY(-13px);
+   
    border: 0px;
    border-radius: 8px;
+   transform: translateY(-13px);
 }
 
 }
@@ -111,9 +113,10 @@ div.campo > input {
    font-size: 1em;
    width:83%;
    height: 100%;
-   transform: translateY(-13px);
+   
    border: 0px;
    border-radius: 8px;
+   transform: translateY(-13px);
 }
     
 }
